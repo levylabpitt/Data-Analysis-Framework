@@ -15,7 +15,6 @@
 			<Item Name="Data Analaysis Template.vipc" Type="Document" URL="../../build support/Data Analaysis Template.vipc"/>
 		</Item>
 		<Item Name="documentation" Type="Folder">
-			<Item Name="Data-Analysis-Framework.svg" Type="Document" URL="../../documentation/Data-Analysis-Framework.svg"/>
 			<Item Name="Data-Analysis-Outline.png" Type="Document" URL="../../documentation/Data-Analysis-Outline.png"/>
 			<Item Name="Outline.vi" Type="VI" URL="../../documentation/Outline.vi"/>
 		</Item>
