@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-03-17 13:58:45" Modified_Date="2022-07-07 17:20:35" Creator="Patrick Irvin" Comments="" ID="208afe7826daeefd99616347ae665c0f">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-03-17 13:58:45" Modified_Date="2022-07-07 20:40:27" Creator="Patrick Irvin" Comments="" ID="de2f3e34e47a9df9eb544e7738d0666d">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Data_Analysis_Template</Package_File_Name>
-    <Library_Version>1.0.8.2</Library_Version>
+    <Library_Version>1.0.8.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..\builds\Package</Library_Output_Folder>
@@ -256,7 +256,7 @@
         <Path>..\lvsrc\simple-LevyLab Analysis Framework (Template).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>58F8D52B59F9E2E65EEC717A5B8E174D</GUID>
+      <GUID>BE51F15DDB6AD5683D8A66605B37A91E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
